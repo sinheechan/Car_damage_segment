@@ -2,10 +2,6 @@
 
 <br/>
 
-차량 파손 영역 탐지 모델 구현
-
-<br/>
-
 <img src="test_result_folder/img_result.jpg">
 
 <br/><br/>
