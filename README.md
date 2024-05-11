@@ -4,7 +4,7 @@
 
 <br/>
 
-<img srs="test_result_folder/img_result.jpg">
+<img src="test_result_folder/img_result.jpg">
 
 <br/><br/>
 
