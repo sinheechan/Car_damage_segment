@@ -13,8 +13,9 @@ from src.Utils import FocalLoss
 from torch.optim.lr_scheduler import StepLR
 import albumentations as A
 
+# 학습
 
-# Train / val splite
+# Train / val 분할
 
 if __name__ == "__main__":
     # weighted 손실값
