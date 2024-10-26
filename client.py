@@ -11,9 +11,9 @@ def send_img(img):
     if res.status_code == 200:
         try:
             result = res.json()
-            print("Total Repair Cost:", result)
+            print("총 금액:", result)
         except ValueError:
-            print("Failed to parse JSON response:", res.text)
+            print("업로드에 실패하였습니다.:", res.text)
     else:
         print('Error:', res.text)
 
